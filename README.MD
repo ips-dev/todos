@@ -63,6 +63,8 @@ PATCH /todos/:id
 
 ##### Пример запроса:
 ```json
+PATCH /todos/1
+
 {
   "title": "yyy",
   "completed": true,
